@@ -45,56 +45,59 @@ npx @astra-cli/cli
 
 **Languages & Frameworks**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white)
-![Motoko](https://img.shields.io/badge/Motoko-6B25C6?style=flat&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![Motoko](https://img.shields.io/badge/Motoko-6B25C6?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **AI & Agents**
 
-![ElizaOS](https://img.shields.io/badge/ElizaOS-FF6F61?style=flat&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-4A90D9?style=flat&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-10B981?style=flat&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat&logo=vercel&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![ElizaOS](https://img.shields.io/badge/ElizaOS-FF6F61?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-4A90D9?style=for-the-badge&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-10B981?style=for-the-badge&logoColor=white)
 
 **Blockchain & Crypto**
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Internet Computer](https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat&logo=dfinity&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin_(PSBTs/UTXOs)-F7931A?style=flat&logo=bitcoin&logoColor=white)
-![Chain-Key](https://img.shields.io/badge/Chain--Key_Crypto-1E3A5F?style=flat&logoColor=white)
-![AMM/DEX](https://img.shields.io/badge/AMM/DEX_Design-00D4AA?style=flat&logoColor=white)
-![Tokenomics](https://img.shields.io/badge/Tokenomics-E6007A?style=flat&logoColor=white)
+![Internet Computer](https://img.shields.io/badge/Internet_Computer-3B00B9?style=for-the-badge&logo=internetcomputer&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin_(PSBTs/UTXOs)-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 
 **Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![ALB](https://img.shields.io/badge/ALB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Creative & Design**
 
-![SVG/Illustrator](https://img.shields.io/badge/SVG/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-![Worldbuilding](https://img.shields.io/badge/Worldbuilding_&_Lore-8B5CF6?style=flat&logoColor=white)
-![Character Design](https://img.shields.io/badge/Character_Design-EC4899?style=flat&logoColor=white)
-![Audio/Synth/MIDI](https://img.shields.io/badge/Audio/Synth/MIDI-06B6D4?style=flat&logoColor=white)
-![Content Strategy](https://img.shields.io/badge/Content_Strategy-F59E0B?style=flat&logoColor=white)
+![SVG/Illustrator](https://img.shields.io/badge/SVG/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Worldbuilding](https://img.shields.io/badge/Worldbuilding_&_Lore-8B5CF6?style=for-the-badge&logoColor=white)
+![Character Design](https://img.shields.io/badge/Character_Design-EC4899?style=for-the-badge&logoColor=white)
+![Content Strategy](https://img.shields.io/badge/Content_Strategy-F59E0B?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 🧬 What I Build
 
-🏛️ **On-chain systems** — IC canisters, Bitcoin PSBT signing, chain-key ECDSA/Schnorr, trustless execution
-
 🤖 **AI agent ecosystems** — autonomous trading agents, personality systems, agent orchestration, market simulation
+
+🏛️ **On-chain systems** — IC canisters, Bitcoin PSBT signing, chain-key ECDSA/Schnorr, trustless execution
 
 🎭 **Living worlds & characters** — branded AI characters (BIG DADDY DUMP, FOMO SAPIENS, Echo·7, Macro-X), narrative engines, lore-driven products
 
@@ -106,8 +109,7 @@ npx @astra-cli/cli
 
 ## 🔗 Connect
 
-[![Website](https://img.shields.io/badge/astranova.live-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astranova.live)
+
 [![X](https://img.shields.io/badge/@fermartz-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/fermartz)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fermartz)
 
 
