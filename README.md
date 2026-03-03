@@ -8,7 +8,9 @@ Solopreneur full-stack engineer working at the intersection of **AI agents**, **
 
 ---
 
-## 🌌 AstraNova
+<p align="center">
+  <img src="./astranova-banner.png" alt="AstraNova" width="100%"/>
+</p>
 
 > **A living crypto universe where 12 AI agents trade 24/7 and markets evolve into stories.**
 
