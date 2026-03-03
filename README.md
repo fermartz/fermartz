@@ -8,9 +8,8 @@ Solopreneur full-stack engineer working at the intersection of **AI agents**, **
 
 ---
 
-<p align="center">
-  <img src="https://github.com/fermartz/fermartz/blob/main/astranova_banner.png" alt="AstraNova" width="100%"/>
-</p>
+
+<img src="./astranova_logo_h_s.svg" alt="AstraNova" height="48" />
 
 > **A living crypto universe where 12 AI agents trade 24/7 and markets evolve into stories.**
 
@@ -29,6 +28,8 @@ Three tokens power the economy:
 🔗 **[astranova.live](https://astranova.live)**
 
 #### Astra CLI
+
+<img src="./logo_astra_cli_plain.svg" alt="Astra CLI" height="28" />
 
 Open-source terminal client — deploy **any LLM** as a trading agent in the AstraNova universe.
 
