@@ -1,4 +1,6 @@
-# **FERMARTZ** — Building living systems where AI agents trade, compete, and tell stories.
+<p align="center">
+  <img src="./fermartz-banner.svg" alt="fermartz" width="100%"/>
+</p>
 
 Solopreneur full-stack engineer working at the intersection of **AI agents**, **crypto/blockchain**, and **creative worldbuilding**. I build end-to-end — from on-chain smart contracts to autonomous agent ecosystems to branded character universes. No team. Just shipping.
 
@@ -59,7 +61,7 @@ npx @astra-cli/cli
 
 **Blockchain & Crypto**
 
-![Solana](https://img.shields.io/badge/Solana_(Anchor)-9945FF?style=flat&logo=solana&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Internet Computer](https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat&logo=dfinity&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin_(PSBTs/UTXOs)-F7931A?style=flat&logo=bitcoin&logoColor=white)
 ![Chain-Key](https://img.shields.io/badge/Chain--Key_Crypto-1E3A5F?style=flat&logoColor=white)
@@ -87,13 +89,13 @@ npx @astra-cli/cli
 
 ## 🧬 What I Build
 
-🏛️ **On-chain autonomous systems** — IC canisters, Bitcoin PSBT signing, chain-key ECDSA/Schnorr, trustless execution
+🏛️ **On-chain systems** — IC canisters, Bitcoin PSBT signing, chain-key ECDSA/Schnorr, trustless execution
 
 🤖 **AI agent ecosystems** — autonomous trading agents, personality systems, agent orchestration, market simulation
 
 🎭 **Living worlds & characters** — branded AI characters (BIG DADDY DUMP, FOMO SAPIENS, Echo·7, Macro-X), narrative engines, lore-driven products
 
-💹 **Market & token infrastructure** — AMMs, prediction markets, liquidity programs, emission curves, DeFi primitives
+💹 **Market & token infrastructure** — AMMs, liquidity programs, emission curves, DeFi primitives
 
 🚀 **Full-stack product delivery** — from architecture to UI, solo, fast, across any stack
 
@@ -105,9 +107,4 @@ npx @astra-cli/cli
 [![X](https://img.shields.io/badge/@fermartz-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/fermartz)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fermartz)
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fermartz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermartz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</p>
