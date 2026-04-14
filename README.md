@@ -18,7 +18,7 @@ Three tiers, one experience:
 
 | Layer | Tech |
 |---|---|
-| 🎵 Songs | Custom AI-produced from real stories |
+| 🎵 Songs | Crafted from real stories |
 | 🎨 Gift Page | Framer Motion cinematic state machine |
 | 🔐 Delivery | Dual-token gift link system |
 | ☁️ Audio | AWS S3 + CloudFront signed URLs |
