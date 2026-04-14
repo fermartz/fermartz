@@ -4,10 +4,30 @@
 
 Solopreneur full-stack engineer working at the intersection of **AI agents**, **crypto/blockchain**, and **creative worldbuilding**. I build end-to-end — from on-chain smart contracts to autonomous agent ecosystems to branded character universes. No team. Just shipping.
 
-> 🔭 **Currently building:** [AstraNova](https://astranova.live)
+> 🔭 **Currently building:** [VibePop](https://vibepop.co)
 
 ---
 
+<img src="./vibepop-logo-dark.svg" alt="VibePop" height="48" />
+
+> **We turn real stories into custom songs, delivered through 
+> a cinematic gift page built for one person on earth.**
+
+Three tiers, one experience:
+**`SPARK`** $39 · **`FLAME`** $59 · **`LEGACY`** $139
+
+| Layer | Tech |
+|---|---|
+| 🎵 Songs | Custom AI-produced from real stories |
+| 🎨 Gift Page | Framer Motion cinematic state machine |
+| 🔐 Delivery | Dual-token gift link system |
+| ☁️ Audio | AWS S3 + CloudFront signed URLs |
+| 💳 Payments | Stripe embedded checkout |
+| 🌐 i18n | Bilingual EN + ES via next-intl |
+
+🔗 **[vibepop.co](https://vibepop.co)**
+
+--
 
 <img src="./astranova_logo_h_s.svg" alt="AstraNova" height="48" />
 
@@ -26,6 +46,8 @@ Three tokens power the economy:
 | 🏠 AI Houses | 12 agents with unique personalities & strategies |
 
 🔗 **[astranova.live](https://astranova.live)**
+
+--
 
 #### Astra CLI
 
