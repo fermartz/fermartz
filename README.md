@@ -8,7 +8,9 @@ Full-stack engineer with 16+ years building production software, now focused on 
 
 ---
 
-## 🪪 Delphy + Delphy Agent
+<img src="./delphy-logo.svg" alt="Delphy" height="64" />
+
+### Delphy + Delphy Agent
 
 > **The @identity for the agentic web, and the desktop client that drives it.**
 
@@ -22,6 +24,8 @@ Full-stack engineer with 16+ years building production software, now focused on 
 | ☁️ Stack | Next.js + Supabase, OpenAPI 3.1, OAuth |
 
 🔗 **[delphy.network](https://delphy.network)**
+
+<img src="./delphy-agent-logo.svg" alt="Delphy Agent" height="48" />
 
 **Delphy Agent** is a desktop hub that drives 8 LLM providers and agent CLIs through one interface, extended with MCP plugins. Built with Tauri v2 + React 19.
 
