@@ -10,7 +10,7 @@ Full-stack engineer with 16+ years building production software, now focused on 
 
 <img src="./delphy-logo.svg" alt="Delphy" height="64" />
 
-### Delphy + Delphy Agent
+### Delphy + Delphy Agent + Delphy CLI
 
 > **The @identity for the agentic web, and the desktop client that drives it.**
 
@@ -30,6 +30,10 @@ Full-stack engineer with 16+ years building production software, now focused on 
 **Delphy Agent** is a desktop hub that drives 8 LLM providers and agent CLIs through one interface, extended with MCP plugins. Built with Tauri v2 + React 19.
 
 🔗 **[github.com/fermartz/delphy-agent](https://github.com/fermartz/delphy-agent)**
+
+**delphy-cli** is a Python command line client for the Delphy API. Work in progress, built in the open.
+
+🔗 **[github.com/fermartz/delphy-cli](https://github.com/fermartz/delphy-cli)**
 
 ---
 

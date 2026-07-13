@@ -92,7 +92,7 @@
 
   <!-- === SUBTITLE === -->
   <text x="450" y="230" text-anchor="middle" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13" fill="#8b95a5" letter-spacing="3" opacity="0.7">
-    BUILDING PRODUCTION AI WITH AGENTS × PLATFORMS × CODE
+    AGENTS × IDENTITY × INTERFACES
   </text>
 
   <!-- Accent line under subtitle -->
